@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Olie
+- 🌱 I’m currently learning C#
+- 📫 How to reach me. dont
