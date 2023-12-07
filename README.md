@@ -1,3 +1,0 @@
-- 👋 Hi, I’m Olie
-- 🌱 I’m currently learning C#, C++ and Python
-- 📫 Discord: Olie#7177
